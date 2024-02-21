@@ -1,0 +1,9 @@
+#!/bin/bash
+volume=$(pamixer --get-volume)
+mute=$(pamixer --get-mute)
+
+if [ "$mute" == "true" ]; then
+  echo '{"text": " Mute", "tooltip": "Volume: Mute", "class": "custom-pulseaudio", "percentage": 0, "percentage_visible": false}'
+else
+  echo '{"text": " '$volume'%", "tooltip": "Volume: '$volume'%", "class": "custom-pulseaudio", "percentage": '$volume', "percentage_visible": true}'
+fi
