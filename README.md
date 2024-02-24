@@ -10,4 +10,5 @@ git clone https://github.com/riviox/dotfiles.git
 cd dotfiles/dotfiles
 cp -r * ~/.config
 ```
+## Replace all images in hypr with yours!
 ![Alt text](image.png)
