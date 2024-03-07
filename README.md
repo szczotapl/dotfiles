@@ -19,7 +19,7 @@
 - hypridle
 - hyprload
 - hyprlock
-- neofetch
+- grimblast
 
 # Apps:
 - **Discord Client:** Vencord
@@ -29,6 +29,7 @@
 - **Menu:** Rofi
 - **Bar:** Waybar
 - **Wallpaper:** Swaybg
+- **Screenshot**: Grimblast
 
 ## How to install
 ```
