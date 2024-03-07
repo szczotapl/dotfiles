@@ -1,4 +1,4 @@
-![Alt text](image.png)
+![Alt text](image.png) ![Alt text](image-1.png) ![Alt text](image-2.png)
 # My HyprLand dotfiles
 - fish
 - hyprland
@@ -30,6 +30,9 @@
 - **Bar:** Waybar
 - **Wallpaper:** Swaybg
 - **Screenshot**: Grimblast
+- **Shell**: Fish
+- **Spotify**: Spicetify
+- **Spotify tray**: spotify-tray
 
 ## How to install
 ```
