@@ -73,3 +73,7 @@ chmod +x install.sh
 - SUPER + mouse_down: Scroll to the next workspace.
 - SUPER + mouse_up: Scroll to the previous workspace.
 - Move/resize windows with SUPER + LMB/RMB and dragging:
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=riviox/dotfiles&type=Date)](https://star-history.com/#riviox/dotfiles&Date)
