@@ -1,2 +1,0 @@
-#!/bin/bash
-echo '{"text": " '$(date +'%H:%M')'", "tooltip": "Clock", "class": "custom-clock"}'

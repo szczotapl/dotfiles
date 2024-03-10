@@ -1,3 +1,0 @@
-#!/bin/bash
-ip_address=$(ip route get 1 | awk '{print $7}')
-echo '{"text": " '$ip_address'", "tooltip": "IP Address: '$ip_address'", "class": "custom-ip"}'
