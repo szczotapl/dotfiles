@@ -42,7 +42,7 @@ chmod +x install.sh
 ./install.sh
 ```
 > [!NOTE]
-> To change waybar clock format just replace `"format": "   {:%H:%M}"`` with `"format": "   {:a H%:%M}"`<br>
+> To change waybar clock format just replace `"format": "   {:%H:%M}"` with `"format": "   {:a H%:%M}"`:)<br>
 
 ## Binds:
 - SUPER + Q: Open terminal (kitty).
