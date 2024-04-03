@@ -1,5 +1,5 @@
 configuration{
-    modi: "drun,run";
+    modi: "drun,run,emoji,filebrowser";
     lines: 6;
     font: "JetBrainsMono Nerd Font 14";
     show-icons: true;
@@ -9,8 +9,10 @@ configuration{
     location: 0;
     disable-history: false;
     hide-scrollbar: true;
-    display-drun: "   Apps ";
-    display-run: "   Run ";
+    display-drun: "    Apps ";
+    display-run: "    Run ";
+    display-emoji: "󰞅  Emoji";
+    display-filebrowser: "  Files";
     display-window: " 﩯  window";
     display-Network: " 󰤨  Network";
     sidebar-mode: true;
