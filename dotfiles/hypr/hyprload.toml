@@ -1,3 +1,0 @@
-plugins = [
-    "hyprwm/hyprland-plugins/tree/main/hyprtrails",
-]
